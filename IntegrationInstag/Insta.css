@@ -1,0 +1,80 @@
+body
+    {
+        background-color:#fffefe;
+    }
+#tele
+    {
+        width: 100%;
+        margin-top: 40%;
+        margin-left: 70%;
+        height: 550px;
+        
+    }
+.conteneur2
+    {
+        border: solid black 1px ;
+        width: 50%;
+        background: #fff;
+        margin-left: 17%;
+        margin-top: 10%;
+        height: 390px;
+    }
+ .conteneur1
+    {
+        margin-right: 20%;
+        display: flex;
+        margin-top: -5%;
+
+    }
+.tel
+    {
+        margin-left: 30%;
+    }
+#logo
+    {
+      width: 50%;
+      margin-left: 25%;
+    } 
+.input1
+    {
+        height: 25px;  
+    }
+.input2
+    {
+        height: 25px;  
+    }
+.input
+    {
+        background-color: cornflowerblue;
+        color: #fff;
+        text-align: center;
+        height: 20px;
+        font-size: 14px;
+        font-family: 'Segoe UI', sans-serif;
+        line-height: 18px;
+    }
+.forme
+    {
+        margin-left: 6%;
+        height: 25px;
+    }
+.barre
+    {
+      margin-top: 10%; 
+      margin-left: 3px; 
+    }
+.input3
+    {
+        margin-top: 80%;
+        text-align: center;
+        height: 35px;
+        font-size: 14px;
+        font-family: 'Segoe UI';
+        line-height: 18px;
+    }
+.photoBas
+    {
+        margin-top: 7%;
+        width: 100%;
+        height: 15%;
+    }

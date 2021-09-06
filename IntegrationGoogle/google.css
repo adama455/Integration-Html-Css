@@ -1,0 +1,30 @@
+body
+    {
+        font-family: arial,sans-serif;
+        font-size: 14px;
+        color: #202124;
+        line-height: 27px;
+    }
+#G
+    {
+        align-items: center;
+        position: absolute;
+        padding-left: 27%;
+    }
+#barre-recherche
+    {
+        position: absolute;
+        padding-left: 25%;
+        padding-top: 15%;
+    }
+.conteneur2
+    {
+        position: absolute;
+        padding-left: 40%;
+        padding-top: 20%;
+    }
+.texte td
+    {
+        padding-top: -10%;
+    }
+   
